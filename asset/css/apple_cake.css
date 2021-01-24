@@ -1,0 +1,92 @@
+.container-app{
+    padding: 20px;
+
+}
+.img-control{
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.recipe{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.recipe-detail{
+    margin: 0px 20px;
+    width: 300px;
+}
+.recipe-detail small{
+    text-transform: uppercase;
+}
+.r-components{
+    word-spacing: 22px
+}
+.hr-control{
+    width: 600px;
+}
+.img-sizing{
+    height: 180px;
+    width: 200px;
+    border-radius: 10px;
+}
+.part p{
+    font-size: 14px;
+}
+.contain-wrap{
+    display: flex;
+    justify-content: center;
+}
+.img-c{
+    margin: 0 80px;
+}
+.parts-2{
+    margin: 0 80px;
+}
+.ingre i{
+    color: orange;
+    margin: 0 10px;
+}
+.f-i{
+color: orange;
+margin-right: 10px;
+}
+.method{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 80px;
+    
+
+}
+.method h2{
+    margin-right: 400px;
+    color: orangered;
+}
+.details h2{
+    color: orangered;
+}
+.nutri-item{ 
+    margin-left: 650px;
+    width: 33.33%;   
+}
+
+.details{
+float: right;
+}
+.nutritions-main{
+    margin-bottom: 300px;
+}
+/* ol {margin-left:0; padding-left:0; counter-reset:item}
+ol>li {margin-left:0; padding-left:0; counter-increment:item; list-style:none inside;margin-bottom:10px}
+ol>li:before {
+content:counter(item);
+padding:0px 8px;
+margin-right:0.5em;
+background:rgb(72, 228, 10);
+-webkit-border-radius: 100px;
+-moz-border-radius: 100px;
+border-radius: 1100px; 
+color: white;
+} */
